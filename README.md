@@ -1,16 +1,29 @@
 ### Hi there 👋
 
 <!--
-**Yiming-Wange/Yiming-Wange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yiming Wang - GitHub Summary
 
-Here are some ideas to get you started:
+## 🚀 Data Engineer Intern @ Midea AI Innovation Center
+- Spark expert optimizing language model data for smart homes.
+- Validated BaiChuan-7B model for improved comprehension and sentiment analysis.
+- Python enthusiast automating Spark data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👨‍🏫 Teaching Assistant @ University of Shanghai
+- Nurturing minds in Natural Language Understanding.
+- Streamlining learning experiences with collaborative curriculum design.
+
+## 🛠️ Project Highlights
+- Contributed to popular open-source solutions in deep learning.
+- Hands-on experience in image processing applications.
+
+## 📚 Publication
+- Co-authored ML-based paper on glass cultural relics.
+
+## 🌐 Languages & Skills
+- Fluent in English, native in Chinese.
+- Proficient in Python (Pytorch, PySpark, Sci-kit Learn), Git, and more.
+
+Connect with me for tech adventures! 🚀👨‍💻
+
+
 -->
