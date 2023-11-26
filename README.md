@@ -11,14 +11,11 @@
 - Streamlining learning experiences with collaborative curriculum design.
 
 ## 🛠️ Project Highlights
-- Contributed to popular open-source solutions in deep learning.
-- Hands-on experience in image processing applications.
-
-## 📚 Publication
-- Co-authored ML-based paper on glass cultural relics.
+- Contributed to popular open-source solutions in deep learning.(CS231n & CS224n)
 
 ## 🌐 Languages & Skills
-- Fluent in English, native in Chinese.
+- IELTS 6.5 in English, native in Chinese.
 - Proficient in Python (Pytorch, PySpark, Sci-kit Learn), Git, and more.
 
 Connect with me for tech adventures! 🚀👨‍💻
+mail: yimingwang1025@gmail.com
