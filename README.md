@@ -6,7 +6,7 @@
 - Validated BaiChuan-7B model for improved comprehension and sentiment analysis.
 - Python enthusiast automating Spark data processing.
 
-## 👨‍🏫 Teaching Assistant @ University of Shanghai
+## 👨‍🏫 Teaching Assistant @ University of Shanghai for Science and Technology
 - Nurturing minds in Natural Language Understanding.
 - Streamlining learning experiences with collaborative curriculum design.
 
