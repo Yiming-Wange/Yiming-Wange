@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiming-Wange&show_icons=true&theme=radical)
+
 
 ## 🚀 LLM Data Engineer Intern @ Midea AI Innovation Center
 - Spark expert optimizing language model data for smart homes.
@@ -17,10 +19,7 @@
 - IELTS 6.5 in English, native in Chinese.
 - Proficient in Python (Pytorch, PySpark, Sci-kit Learn), Git, and more.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yiming-Wange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiming-Wange&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yiming-Wange)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Feel free to connect with me for tech adventures! 🚀👨‍💻
 - mail: yimingwang1025@gmail.com
