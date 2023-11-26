@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-# Yiming Wang - GitHub Summary
 
 ## 🚀 Data Engineer Intern @ Midea AI Innovation Center
 - Spark expert optimizing language model data for smart homes.
@@ -24,6 +22,3 @@
 - Proficient in Python (Pytorch, PySpark, Sci-kit Learn), Git, and more.
 
 Connect with me for tech adventures! 🚀👨‍💻
-
-
--->
