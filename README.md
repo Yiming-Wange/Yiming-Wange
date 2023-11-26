@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## 🚀 Data Engineer Intern @ Midea AI Innovation Center
+## 🚀 LLM Data Engineer Intern @ Midea AI Innovation Center
 - Spark expert optimizing language model data for smart homes.
 - Validated BaiChuan-7B model for improved comprehension and sentiment analysis.
 - Python enthusiast automating Spark data processing.
