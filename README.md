@@ -16,7 +16,6 @@
 ## 🌐 Languages & Skills
 - IELTS 6.5 in English, native in Chinese.
 - Proficient in Python (Pytorch, PySpark, Sci-kit Learn), Git, and more.
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiming-Wange)](https://github.com/anuraghazra/github-readme-stats)
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiming-Wange&show_icons=true&theme=radical)
 Connect with me for tech adventures! 🚀👨‍💻
 mail: yimingwang1025@gmail.com
