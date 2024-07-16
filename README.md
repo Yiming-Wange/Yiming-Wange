@@ -5,6 +5,12 @@ My professional experience includes an internship at the Midea Group AI Innovati
 
 My academic and research interests encompass deep representation learning, AI for scientific discovery (AI4Science), natural language processing (NLP), and graphical neural networks. I am passionate about advancing these fields through innovative research and practical applications.
 
+#### Projects
+If you are interested in self-learning deep learning for computer vision or natural language processing, feel free to reference my open-source tutorial projects and blog. These resources provide solutions for Stanford's open courses CS231n and CS224n, offering an excellent starting point for beginners.
+- **[CS224n-2023-solution](https://github.com/Yiming-Wange/CS224n-2023-solution)**: The newest solution for CS224n: Stanford NLP.
+- **[CS231n-solution](https://github.com/Yiming-Wange/cs231n-solution)**: CS231n Spring 2022: Stanford CV
+
+
 #### Skills
 - **Programming Languages**: Python, MATLAB, C++
 - **Frameworks and Tools**: PyTorch, transformers, Scikit-learn, NLTK, SpaCy, LabVIEW
