@@ -1,11 +1,11 @@
 ### Hi there 👋
-**Driven by the question “How can machines accelerate scientific discovery?”, I am currently pursuing my MSc in Data Science & AI at [Chalmers University of Technology](https://www.chalmers.se/en/education/find-masters-programme/data-science-and-ai-msc/)
+**Driven by the question “How can machines accelerate scientific discovery?”**, I am currently pursuing my MSc in Data Science & AI at [Chalmers University of Technology](https://www.chalmers.se/en/education/find-masters-programme/data-science-and-ai-msc/)
 
 At Chalmers, I build deep-generative models that design proteins and engineer enzymes, translating abstract representations into tangible life-science advances.
 
 **Industry**: As an AI Innovation Center intern at [**Midea Group**](https://www.midea.com/global/), I fine-tuned large-language-model pipelines that power smart-home assistants, reducing latency by 28% and boosting NLU accuracy to 93%.
 
-**Research**: Under [**Prof. Stan Z. Li**](https://en.westlake.edu.cn/faculty/stan-zq-li.html) at [AI Lab][https://github.com/Westlake-AI] [Westlake University](https://en.westlake.edu.cn/), I explored topic on AI and Life Science such as TCR-Peptide interative modeling, Cell Metabolic Modeling, Protein Mutation-to-fitness Prediction. 
+**Research**: Under [**Prof. Stan Z. Li**](https://en.westlake.edu.cn/faculty/stan-zq-li.html) at [**AI Lab**][https://github.com/Westlake-AI], [Westlake University](https://en.westlake.edu.cn/), I explored topic on AI and Life Science such as TCR-Peptide interative modeling, Cell Metabolic Modeling, Protein Mutation-to-fitness Prediction. 
 
 **Interests**
 - **Deep representation learning** & OOD generalization  
