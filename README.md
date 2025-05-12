@@ -1,12 +1,21 @@
 ### Hi there 👋
-I hold a Bachelor of Engineering degree from the University of Shanghai for Science and Technology, conferred in June 2024. Currently, I am embarking on a Master's journey in Data Science and AI at Chalmers University of Technology, within the Department of Computer Science and Engineering.
+**Driven by the question “How can machines accelerate scientific discovery?”, I am currently pursuing my MSc in Data Science & AI at [Chalmers University of Technology](https://www.chalmers.se/en/education/find-masters-programme/data-science-and-ai-msc/)
 
-My professional experience includes an internship at the Midea Group AI Innovation Center, where I contributed to the development of large language models (LLM) for consumer applications. Furthermore, I had the privilege of being a remote visiting student at the  AI Lab, Westlake University, China, under the esteemed guidance of Chair Prof. Stan Z. Li (IEEE Fellow, IAPR Fellow, Chief Scientist of BioMap). There, I focused on leveraging AI for Life Science (e.g. AI + protein design, AI + enzyme engineering).
+At Chalmers, I build deep-generative models that design proteins and engineer enzymes, translating abstract representations into tangible life-science advances.
 
-My academic and research interests encompass deep representation learning and generative model for out-of-distribution data, AI for scientific discovery (AI4Science), natural language processing (NLP), and graphical neural networks (GNN). I am passionate about advancing these fields through innovative research and practical applications.
+**Industry**: As an AI Innovation Center intern at [**Midea Group**](https://www.midea.com/global/), I fine-tuned large-language-model pipelines that power smart-home assistants, reducing latency by 28% and boosting NLU accuracy to 93%.
 
-#### Projects
-If you are interested in self-learning deep learning for computer vision or natural language processing, feel free to reference my open-source tutorial projects and blog. These resources provide solutions for Stanford's open courses CS231n and CS224n, offering an excellent starting point for beginners.
+**Research**: Under [**Prof. Stan Z. Li**](https://en.westlake.edu.cn/faculty/stan-zq-li.html) at [AI Lab][https://github.com/Westlake-AI] [Westlake University](https://en.westlake.edu.cn/), I explored topic on AI and Life Science such as TCR-Peptide interative modeling, Cell Metabolic Modeling, Protein Mutation-to-fitness Prediction. 
+
+**Interests**
+- **Deep representation learning** & OOD generalization  
+- Generative models for biology and chemistry
+- GNN-driven scientific reasoning
+
+**Looking ahead**, I hope to collaborate with labs and R&D teams that turn algorithmic breakthroughs into real-world therapeutics and green-tech solutions.
+
+#### Opensource Projects
+During my early deep learning journey, Stanford's CS231n and CS224n courses were immensely helpful. To consolidate what I learned and support fellow learners, I developed a set of open-source tutorial projects and blog posts—feel free to explore them if you're starting out in computer vision or NLP.
 - **[CS224n-2023-solution](https://github.com/Yiming-Wange/CS224n-2023-solution)**: Assignment Solution for CS224n Winter 2023: Stanford NLP
 - **[CS231n-solution](https://github.com/Yiming-Wange/cs231n-solution)**: Assignment Solution for CS231n Spring 2022: Stanford CV
 
